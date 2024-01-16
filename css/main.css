@@ -9,13 +9,14 @@
     padding: 0;
     font-family: "Montserrat";
     box-sizing: border-box;
-    color: #292929;
+    color: black;
 }
 
 .page{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background: white;
 }
 
 .content .section:first-of-type{
